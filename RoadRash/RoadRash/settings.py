@@ -93,5 +93,5 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 POSTGRES_DB = 'RoadRash'
-POSTGRES_USER = 'roadrash_dev'
-POSTGRES_PASSWORD = 'L8erpplz'
+POSTGRES_USER = ''
+POSTGRES_PASSWORD = ''
